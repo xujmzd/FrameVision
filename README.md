@@ -5,6 +5,7 @@
 [![Vite](https://img.shields.io/badge/Vite-6.0-ffc91f.svg)](https://vitejs.dev/)
 
 **FrameVision** 是一款专为视频剪辑、广告片、长视频导出后进行快速质检（QC）而设计的桌面端工具。它能够将视频的每一帧进行可视化平铺，并利用底层图像引擎自动检测黑帧、撕裂帧等异常情况，极大提升后期审核效率。
+百度网盘链接: https://pan.baidu.com/s/1DmSQwy0kd8Pzd2XnMjyb9Q?pwd=6h47 提取码: 6h47
 
 ---
 
